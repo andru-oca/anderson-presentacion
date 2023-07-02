@@ -92,7 +92,7 @@ let sector = {
 let app = {
     data: function () {
         return {
-            lista: ["INICIO", "CONTACTO", "HABILIDADES", "VINOTECA"],
+            lista: ["INICIO", "CONTACTO", "HABILIDADES"],
             habilidades: [
                 "SQL",
                 "PYTHON",
